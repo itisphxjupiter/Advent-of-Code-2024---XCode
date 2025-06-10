@@ -1,6 +1,6 @@
 import math
 
-list = open("/Users/itsphxjupiter/Documents/xcode-beta/macDev/macapp/Advent of Code 2024 - XCode/day1-input.md")
+list = open("/Volumes/nas/VSCode/Advent-of-Code-2024---XCode/Day1/day1-input.md")
 
 left = []
 right = []
